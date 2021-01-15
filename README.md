@@ -5,7 +5,7 @@
 1. The purpose of processing personal information (https://github.com/JK0369/MemoryCam_Information' and below "Jake") is to process personal information for the following purposes and shall not be used for any purpose other than the following:
 
 - Confirm willingness to sign up, identify yourself by providing services to customers, certify, and maintain membership.Payment of amounts, supplies or services according to management, supplies or services.Shipping, etc.
-
+---
 2. Processing and retention period of personal information
 
 ﬁ (https://github.com/JK0369/MemoryCam_Information' and below "Jake") processes and retains personal information within the period of retention or use of personal information agreed upon when collecting personal information from an information subject or by law.
@@ -17,7 +17,7 @@
 (Example)- Customer sign-up and management: Until service contract or membership cancellation, but until the settlement of the bond and debt relationship remains.
 
 - Supply records of contracts, subscription withdrawal, payment, goods, etc. in e-commerce: 5 years
-
+---
 3. The rights and obligations of the information subject, legal representative, and the users of the method of exercise may exercise the following rights as personal information subjects:
 
 ﬁ Information subject may exercise the following rights related to personal information protection at any time for Jake Company ('https://github.com/JK0369/MemoryCam_Information') or 'Jake):
@@ -31,12 +31,12 @@
 4. Require processing suspension
 
 
-
+---
 4. Creating items for personal information processing 
 
 ﬁ ('https://github.com/JK0369/MemoryCam_Information''s 'Jake') handles the following personal information items:
 
-
+---
 
 5. Destruction of Personal Information ('Jake') shall, in principle, destroy such personal information without delay if the purpose of processing personal information is achieved. Procedure, deadline, and method for destruction are as follows.
 
@@ -47,11 +47,11 @@ The information entered by the user is transferred to a separate DB (separate do
 The user's personal information shall be destroyed within five days from the end of the retention period, and within five days from the date on which the personal information is deemed unnecessary, such as achieving the purpose of personal information processing, abolishing the service, or terminating the project.
 
 
-
+---
 6. Matters concerning the installation, operation, and refusal of an automatic collection device for personal information;
 
 Jake Company does not use 'cookies' that store information about information subjects and call them up frequently.
-
+---
 7. Preparing the person in charge of personal information protection
 
 ﬁ Jake Company (https://github.com/JK0369/MemoryCam_Information') and "Jake" are responsible for the handling of personal information, and designates a person in charge of personal information protection as follows to handle complaints and damage related to personal information processing.
@@ -65,13 +65,13 @@ Contact: palatable7@naver.com
 Officer: Kim Jong-kwon
 Contact: palatable7@naver.com
 ﬁ Information subjects can contact the person in charge of personal information protection, complaints, and damage relief department through the service (or business) of Jake Company (https://github.com/JK0369/MemoryCam_Information'). Jake Company ('https://github.com/JK0369/MemoryCam_Information'' and 'Jake' below) will answer and handle inquiries from the information subject without delay.
-
+---
 8. Changing Privacy Policy
 
 ﬁ This personal information processing policy will be applied from the date of enforcement, and if there is any addition, deletion, or correction of changes under statutes or policies, the notice will be made seven days before the change takes effect.
 
 
-
+---
 9. In accordance with Article 29 of the Privacy Act ('Jake') the technical, management and physical measures necessary to secure safety are taken as follows:
 
 1. Minimize and train employees handling personal information
