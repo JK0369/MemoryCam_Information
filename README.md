@@ -1,7 +1,7 @@
 # MemoryCam_Information
 ## contect email of developer: "palatable7@naver.com"
   
-## 
+## Privacy Policy
 1. The purpose of processing personal information (https://github.com/JK0369/MemoryCam_Information' and below "Jake") is to process personal information for the following purposes and shall not be used for any purpose other than the following:
 
 - Confirm willingness to sign up, identify yourself by providing services to customers, certify, and maintain membership.Payment of amounts, supplies or services according to management, supplies or services.Shipping, etc.
