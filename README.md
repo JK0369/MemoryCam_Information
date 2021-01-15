@@ -74,17 +74,17 @@ Contact: palatable7@naver.com
 ---
 9. In accordance with Article 29 of the Privacy Act ('Jake') the technical, management and physical measures necessary to secure safety are taken as follows:
 
-1. Minimize and train employees handling personal information
+* Minimize and train employees handling personal information
 We are implementing measures to manage personal information by designating employees who handle personal information and limiting them to those in charge.
 
-2. Establishing and implementing an internal management plan
+* Establishing and implementing an internal management plan
 We have established and implemented an internal management plan for the safe handling of personal information.
 
-3. Storage of access records and prevention of forgery
+* Storage of access records and prevention of forgery
 We keep and manage records of access to the personal information processing system for at least six months, and use security features to prevent forgery, theft, and loss of access records.
 
-4. Restricting access to personal information
+* Restricting access to personal information
 We are taking necessary measures to control access to personal information through granting, altering, and canceling access to the database system that handles personal information, and using the intrusion prevention system, we control unauthorized access from outside.
 
-5. Access control to unauthorized persons
+* Access control to unauthorized persons
 We have established and operated access control procedures for storing personal information separately.
